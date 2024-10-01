@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/f9127301-022d-4334-82ad-a3f3aaa96a96)
-
 In this Triathlon event we choose Frontend Domain and produced a fully functioning application on Story based interative website.
 We used input function and store the information of name and story setting which allows the story generation to be innovative and seamless for the user.
 To route from one page to another, we used reference tags to move to the next page of story line.
